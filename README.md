@@ -2,6 +2,8 @@
 
 An interactive **XR AI Assistant** built in **Unity** that combines **voice recognition, OpenAI integration, and passthrough camera vision** to create a conversational mixed reality experience.
 
+NOTE: Many thanks to Valem for this tutorial
+
 ---
 
 ## Features
